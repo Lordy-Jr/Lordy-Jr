@@ -1,4 +1,4 @@
-. 👋 Hey there, I’m @Lordy-Jr
+. 👋 Hey there, I’m Lord-Bernard
 
 . 👀 I’m interested in Fintech, AI, Creative coding, and Building meaningful digital products.
 
